@@ -1,0 +1,5 @@
+Simple Install
+1. Login to WordPress and go to Plugins > Add New > Upload
+2. Upload foothumbnailgallery.zip and activate
+3. FTG should work out of the box. Just create a gallery, then paste the shortcode into a page/post and you're done
+4. Of course, this depends completely on whether you have FooBox (free or Premium) activated. Do that. It's important.
